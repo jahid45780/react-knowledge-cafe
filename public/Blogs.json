@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/51dYRSB/top-view-workspace-with-laptop-notebook.jpg",
+        "title": "Exploring the Mysteries of Deep Space",
+        "author_image": "https://i.ibb.co/PZBXgMN/young-successful-businessman-speaking-phone-office-background.jpg",
+        "author": "Mr Tom",
+        "posted_date": "September 25, 2023",
+        "reading_time": 12,
+        "hashtags": ["SpaceExploration", "Astronomy", "Galaxies"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/fDCyzWM/programming-background-collage.jpg",
+        "title": "The Art of Gourmet Cooking",
+        "author_image": "https://i.ibb.co/RbGTSGZ/young-successful-businessman-sitting-workplace-office-background.jpg",
+        "author": "Mr Dom",
+        "posted_date": "August 10, 2023",
+        "reading_time": 8,
+        "hashtags": ["CookingTips", "Foodie", "GourmetCuisine"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/jzD4bNw/programming-background-collage-1.jpg",
+        "title": "Mastering the Zen of Mindfulness",
+        "author_image": "https://i.ibb.co/PZBXgMN/young-successful-businessman-speaking-phone-office-background.jpg]",
+        "author": "Mr Jak",
+        "posted_date": "July 5, 2023",
+        "reading_time": 15,
+        "hashtags": ["Mindfulness", "Meditation", "Wellness"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/xmTK1WP/programming-background-collage-2.jpg",
+        "title": "Unveiling the Secrets of Ancient History",
+        "author_image": "https://i.ibb.co/888pGmJ/277910608-395596272066769-807600746048892719-n.jpg",
+        "author": "Jahid",
+        "posted_date": "May 12, 2023",
+        "reading_time": 20,
+        "hashtags": ["HistoryMysteries", "Archaeology", "AncientCivilizations"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/g4nnGDc/programming-background-collage-3.jpg",
+        "title": "The Power of Data Analytics in Business",
+        "author_image": "https://i.ibb.co/3M1vbQM/attractive-woman-with-no-flaws-blemishes-touching-pure-clean-skin-smiling-with-delight-feeling-happi.jpg",
+        "author": "Ms Dene",
+        "posted_date": "June 30, 2023",
+        "reading_time": 10,
+        "hashtags": ["DataAnalytics", "BusinessStrategy", "BigData"]
+    }
+]
